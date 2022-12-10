@@ -5,6 +5,7 @@ using AdventOfCode2022.Day4;
 using AdventOfCode2022.Day5;
 using AdventOfCode2022.Day6;
 using AdventOfCode2022.Day7;
+using AdventOfCode2022.Day8;
 
 internal class Program
 {
@@ -29,6 +30,9 @@ internal class Program
         //Day6.Part2();
 
         //Day7.Part1();
-        Day7.Part2();
+        //Day7.Part2();
+
+        Day8.Part1();
+        Day8.Part2();
     }
 }
